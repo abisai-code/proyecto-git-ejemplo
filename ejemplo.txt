@@ -2,4 +2,8 @@ este solo es un fichero con testo ramdon
 
 hice un cambio pero no guarde 
 
+<<<<<<< Updated upstream
 bugs bugs bugs bugs
+=======
+error error error
+>>>>>>> Stashed changes
